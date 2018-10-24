@@ -1,5 +1,6 @@
 #!/bin/bash
 sum=0
+#yanyan
 #this is a script
 #this is my comment
 for arg in $@
